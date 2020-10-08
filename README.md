@@ -5,7 +5,7 @@
 <!--more-->
 
 # 操作步骤
-## Step 1 Fork仓库
+## Step 1 Fork仓库 
 打开[代码链接](https://github.com/Wenmoux/V2ex-Auto-Sign)并Fork我的仓库
 ![fork源代码](https://cdn.jsdelivr.net/gh/Wenmoux/wenpic/IMG_20200608_085223.jpg)
 ##  Step 2 设置Cookie
